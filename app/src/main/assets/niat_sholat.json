@@ -1,0 +1,32 @@
+[
+  {
+    "nama": "Niat Sholat Subuh",
+    "arabic": "أُصَلِّى فَرْضَ الصُّبْح رَكَعتَيْنِ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً (مَأْمُوْمًا/إِمَامًا) لله تَعَالَى.",
+    "latin": "Ushalli fardlash shub-hi ra'ataini mustaqbilal qiblati adaa'an (ma'muman/imaman) lillaahi ta'aalaa. Allahu Akbar",
+    "terjemahan": "Aku sengaja sholat fardhu Subuh dua rakaat menghadap kiblat (ma'mum/imam) karena Allah. Allah Mahabesar."
+  },
+  {
+    "nama": "Niat Sholat Dzuhur",
+    "arabic": "اُصَلِّيْ فَرْضَ الظُّهْرِ أَرْبَعَ رَكَعاَتٍ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً (مَأْمُوْمًا/إِمَامًا) لله تَعَالَى",
+    "latin": "Ushalli fardhadh dhuhri arba'a raka'aatin mustaqbilal qiblati adaa'an (ma'muman/imaman) lillaahi ta'aalaa. Allahu Akbar",
+    "terjemahan": "Aku sengaja sholat fardhu Zuhur empat rakaat menghadap kiblat (mak'mum/imam) karena Allah. Allah Mahabesar."
+  },
+  {
+    "nama": "Niat Sholat Ashar",
+    "arabic": "أُصَلِّى فَرْضَ العَصْرِأَرْبَعَ رَكَعاَتٍ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً (مَأْمُوْمًا/إِمَامًا) لله تَعَالَى.",
+    "latin": "Ushalli fardhal 'asri arba'a raka'aatin mustaqbilal qiblati adaa'an (ma'muman/imaman) lillaahi ta'aalaa. Allahu Akbar.",
+    "terjemahan": "Aku sengaja sholat fardhu Asar empat rakaat menghadap kiblat (ma'mum/imam) karena Allah. Allah Mahabesar."
+  },
+  {
+    "nama": "Niat Sholat Maghrib",
+    "arabic": "أُصَلِّى فَرْضَ المَغْرِبِ ثَلاَثَ رَكَعاَتٍ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً (مَأْمُوْمًا/إِمَامًا) لله تَعَالَى.",
+    "latin": "Ushalli fardhal maghribi tsalaatsa raka'aatin mustaqbilal qiblati adaa'an (ma'muman/imaman) lillaahi ta'aalaa. Allahu Akbar.",
+    "terjemahan": "Aku sengaja sholat fardhu Maghrib empat rakaat menghadap kiblat (ma'mum/imam) karena Allah. Allah Mahabesar."
+  },
+  {
+    "nama": "Niat Sholat Isya",
+    "arabic": "أُصَلِّى فَرْضَ العِشَاء ِأَرْبَعَ رَكَعاَتٍ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً (مَأْمُوْمًا/إِمَامًا) لله تَعَالَى.",
+    "latin": "Ushalli fardhal isya-i arba'a raka'aatin mustaqbilal qiblati adaa'an (ma'muman/imaman) lillaahi ta'aalaa. Allahu Akbar",
+    "terjemahan": "Aku sengaja sholat fardhu Isya empat rakaat menghadap kiblat (ma'mum/imam) karena Allah. Allah Mahabesar."
+  }
+]

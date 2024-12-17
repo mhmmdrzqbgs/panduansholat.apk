@@ -1,0 +1,88 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wave">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_marginTop="100dp">
+
+        <ImageView
+            android:id="@+id/umk"
+            android:layout_width="107dp"
+            android:layout_height="212dp"
+            android:src="@drawable/umk"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="Aplikasi ini dirancang untuk memenuhi tugas akhir Mata Kuliah Praktikum Pemrograman Mobile"
+            android:textAlignment="center"
+            android:fontFamily="@font/outfit"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="Adapun anggota kelompok kami sebagai berikut :"
+            android:fontFamily="@font/outfit"
+            android:textAlignment="center"
+            android:gravity="center"/>
+
+        <TextView
+            android:paddingTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="Ramadhan Sulthon Alfanie (202251073)"
+            android:textAlignment="center"
+            android:fontFamily="@font/outfit"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="Anan Maulana (202251086)"
+            android:textAlignment="center"
+            android:fontFamily="@font/outfit"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="Muhammad Rizqi Bagus Trianto (202251088)"
+            android:textAlignment="center"
+            android:fontFamily="@font/outfit"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="Bryan Daffa Octavianto (202251090)"
+            android:textAlignment="center"
+            android:fontFamily="@font/outfit"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="TI-UMK 2024"
+            android:textAlignment="center"
+            android:fontFamily="@font/outfit"
+            android:textStyle="bold"
+            android:layout_marginTop="100dp"
+            android:gravity="center"/>
+    </LinearLayout>
+</ScrollView>

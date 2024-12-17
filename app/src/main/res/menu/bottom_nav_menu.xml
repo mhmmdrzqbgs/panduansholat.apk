@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/beranda"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Beranda"
+        android:fontFamily="@font/outfit"/>
+    <item
+        android:id="@+id/video"
+        android:icon="@drawable/baseline_music_video_24"
+        android:title="Video"
+        android:fontFamily="@font/outfit"/>
+    <item
+        android:id="@+id/tentang"
+        android:icon="@drawable/baseline_android_24"
+        android:title="Tentang"
+        android:fontFamily="@font/outfit"/>
+</menu>
