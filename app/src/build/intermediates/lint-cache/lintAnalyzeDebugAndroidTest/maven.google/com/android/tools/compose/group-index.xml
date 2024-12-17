@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<com.android.tools.compose>
+  <compose-preview-detector versions="31.5.0-alpha08,31.5.0-beta01,31.5.0-beta02,31.6.0-alpha01,31.6.0-alpha02"/>
+  <compose-preview-renderer versions="0.0.1-alpha01"/>
+  <compose-preview-renderer-model versions="0.0.1-alpha01"/>
+</com.android.tools.compose>
