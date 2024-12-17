@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "name": "Bacaan Iftitah",
+    "image": "https://i.pinimg.com/564x/b1/36/73/b13673a12fec002f18f4b837e563a112.jpg",
+    "arabic": "اللَّهُ أَكْبَرُ كَبِيرًا وَالْحَمْدُ لِلَّهِ كَثِيرًا وَسُبْحَانَ اللَّهِ بُكْرَةً وَأَصِيلاً , إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ السَّمَوَاتِ وَالأَرْضَ حَنِيفًا وَمَا أَنَا مِنَ الْمُشْرِكِينَ إِنَّ صَلاَتِى وَنُسُكِى وَمَحْيَاىَ وَمَمَاتِى لِلَّهِ رَبِّ الْعَالَمِينَ لاَ شَرِيكَ لَهُ وَبِذَلِكَ أُمِرْتُ وَأَنَا أَوَّلُ الْمُسْلِمِينَ",
+    "latin": "Allaahu akbar kabiirow wal hamdu lillaahi katsiiroo wasubhaanalloohi bukrotaw wa-ashiilaa, Innii wajjahtu wajhiya lilladzii fathoros samaawaati wal ardlo haniifaa wamaa ana minal musyrikiin. Inna sholaatii wa nusukii wamahyaa wa mamaatii lillaahi robbil &lsquo;aalamiin. Laa syariikalahu wa bidzaalika umirtu wa ana awwalul muslimiin",
+    "terjemahan": "mengangkat kedua tangan sejajar dengan telinga, turunkan dan rapatkan tangan di atas pusar."
+  },
+  {
+    "id": 2,
+    "name": "Al Fatihah",
+    "image": "https://i.pinimg.com/564x/cb/b4/66/cbb466ca0938500ee6fbe7ba507ce928.jpg",
+    "arabic": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ ﴿١﴾الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ الرَّحْمَـٰنِ الرَّحِيمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾ اهْدِنَا   الصِّرَاطَ الْمُسْتَقِيمَ ﴿٦﴾ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ﴿٧",
+    "latin": "1. Bismillahirrahmanirrahim, 2. Alhamdulillahi rabbil alamin, 3. Arrahmaanirrahiim, 4. Maaliki yaumiddiin, 5. Iyyaka nabudu waiyyaaka nastaiin, 6. Ihdinashirratal mustaqim, 7. shiratalladzina an&rsquo;amta alaihim ghairil maghduubi alaihim waladhaalin",
+    "terjemahan": "Fokuskan pandangan ke arah bawah, lalu membaca surat Al Fatihah dan surat pendek"
+  },
+  {
+    "id": 3,
+    "name": "Bacaan Ruku",
+    "image": "https://i.pinimg.com/564x/03/f0/cf/03f0cfcbdd55762f4ef6e15384c54c0f.jpg",
+    "arabic": "(3x) سُبْحَانَ رَبِّيَ الْعَظِيْمِ وَبِحَمْدِهِ",
+    "latin": "Subhana Rabbiyal Adzimi Wabihamdih (3x)",
+    "terjemahan": "Setelah selesai membaca surat pendek angkat kedua tangan seperti halnya takbir lalu turunkan tangan sampai ke lutut kaki, dan baca doa berikut:"
+  },
+  {
+    "id": 4,
+    "name": "i'tidal",
+    "image": "https://i.pinimg.com/564x/72/9f/3f/729f3f05029868250bb4a32d5eb7e4ac.jpg",
+    "arab": "سَمِعَ اللهُ لِمَنْ حَمِدَه,رَبَّنَا وَلَكَ الْحَمْدُُ",
+    "latin": "samiallahuliman hamidah",
+    "terjemahan": "Setelah membaca ruku kemudian bangun dari ruku sambil mengangkat tangan, lalu ucakkan do'a ini:"
+  },
+  {
+    "id": 5,
+    "name": "Bacaan Sujud",
+    "image": "https://i.pinimg.com/564x/c8/29/e4/c829e41d816f0a112bbb5a38b9cd943b.jpg",
+    "arabic": "(3x) سُبْحَانَ رَبِّىَ الْأَعْلَى وَبِحَمْدِهِ",
+    "latin": "Subhaana robbiyal a'la wabihamdih (3x)",
+    "terjemahan": "Setelah membaca do'a itidal maka melakukan sujud dengan cara menempatkan kepala dan tangan dengan sejajar dibawah/di lantai"
+  },
+  {
+    "id": 6,
+    "name": "Bacaan Duduk Diantara Dua Sujud",
+    "image": "https://i.pinimg.com/564x/02/7a/68/027a68c24a0d34d86fcbe4492bc17087.jpg",
+    "arabic": "رَبِّ اغْفِرْلِيْ وَارْحَمْنِيْ وَاجْبُرْنِيْ وَارْفَعْنِيْ وَارْزُقْنِيْ وَاهْدِنِيْ وَعَافِنِيْ وَاعْفُ عَنِّيْ",
+    "latin": "Rabbighfirli Warhamni Wajburnii Warfaknii Wazuqnii Wahdinii Wa'aafinii Wa'fuannii",
+    "terjemahan": "Selanjutnya duduk diantara dua sujud dengan membaca doa:"
+  },
+  {
+    "id": 7,
+    "name": "Bacaan Sujud",
+    "image": "https://i.pinimg.com/564x/c8/29/e4/c829e41d816f0a112bbb5a38b9cd943b.jpg",
+    "arabic": "(3x) سُبْحَانَ رَبِّىَ الْأَعْلَى وَبِحَمْدِهِ",
+    "latin": "Subhaana robbiyal a'la wabihamdih (3x)",
+    "terjemahan": "Sujud yang kedua dengan posisi yang sama dengan posisi sujud pertama"
+  },
+  {
+    "id": 8,
+    "name": "Rekaat Kedua",
+    "image": "https://i.pinimg.com/564x/cb/b4/66/cbb466ca0938500ee6fbe7ba507ce928.jpg",
+    "arabic": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ ﴿١﴾الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ الرَّحْمَـٰنِ الرَّحِيمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾ اهْدِنَا   الصِّرَاطَ الْمُسْتَقِيمَ ﴿٦﴾ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ﴿٧َ",
+    "latin": "1. Bismillahirrahmanirrahim, 2. Alhamdulillahi rabbil alamin, 3. Arrahmaanirrahiim, 4. Maaliki yaumiddiin, 5. Iyyaka nabudu waiyyaaka nastaiin, 6. Ihdinashirratal mustaqim, 7. shiratalladzina an&rsquo;amta alaihim ghairil maghduubi alaihim waladhaalin",
+    "terjemahan": "Langkah selanjutnya bangun dari sujud untuk melakukan reka'at kedua. Adapun gerakannya dengan mengangkat kedua tangan sejajar dengan telinga dan ucapkan kata 'Allahu Akbar', setelah itu baca surat Al Baqarah dan surat pendek yang lain"
+  },
+  {
+    "id": 9,
+    "name": "Bacaan Ruku Kedua",
+    "image": "https://i.pinimg.com/564x/03/f0/cf/03f0cfcbdd55762f4ef6e15384c54c0f.jpg",
+    "arabic": "(3x) سُبْحَانَ رَبِّيَ الْعَظِيْمِ وَبِحَمْدِهِ",
+    "latin": "Subhana Rabbiyal Adzimi Wabihamdih (3x)",
+    "terjemahan": "Setelah selesai membaca surat pendek angkat kedua tangan seperti halnya takbir lalu turunkan tangan sampai ke lutut kaki, dan baca doa berikut:"
+  },
+  {
+    "id": 10,
+    "name": "i'tidal",
+    "image": "https://i.pinimg.com/564x/72/9f/3f/729f3f05029868250bb4a32d5eb7e4ac.jpg",
+    "arab": "سَمِعَ اللهُ لِمَنْ حَمِدَه,رَبَّنَا وَلَكَ الْحَمْدُُ",
+    "latin": "samiallahuliman hamidah",
+    "terjemahan": "Setelah membaca ruku kemudian bangun dari ruku sambil mengangkat tangan, lalu ucakkan do'a ini:"
+  },
+  {
+    "id": 11,
+    "name": "Bacaan Sujud",
+    "image": "https://i.pinimg.com/564x/c8/29/e4/c829e41d816f0a112bbb5a38b9cd943b.jpg",
+    "arabic": "(3x) سُبْحَانَ رَبِّىَ الْأَعْلَى وَبِحَمْدِهِ",
+    "latin": "Subhaana robbiyal a'la wabihamdih (3x)",
+    "terjemahan": "Setelah membaca do'a itidal maka melakukan sujud dengan cara menempatkan kepala dan tangan dengan sejajar dibawah/di lantai"
+  },
+  {
+    "id": 12,
+    "name": "Bacaan Duduk Diantara Dua Sujud",
+    "image": "https://i.pinimg.com/564x/02/7a/68/027a68c24a0d34d86fcbe4492bc17087.jpg",
+    "arabic": "رَبِّ اغْفِرْلِيْ وَارْحَمْنِيْ وَاجْبُرْنِيْ وَارْفَعْنِيْ وَارْزُقْنِيْ وَاهْدِنِيْ وَعَافِنِيْ وَاعْفُ عَنِّيْ",
+    "latin": "Rabbighfirli Warhamni Wajburnii Warfaknii Wazuqnii Wahdinii Wa'aafinii Wa'fuannii",
+    "terjemahan": "Selanjutnya duduk diantara dua sujud dengan membaca doa:"
+  },
+  {
+    "id": 13,
+    "name": "Bacaan Sujud",
+    "image": "https://i.pinimg.com/564x/c8/29/e4/c829e41d816f0a112bbb5a38b9cd943b.jpg",
+    "arabic": "(3x) سُبْحَانَ رَبِّىَ الْأَعْلَى وَبِحَمْدِهِ",
+    "latin": "Subhaana robbiyal a'la wabihamdih (3x)",
+    "terjemahan": "Sujud yang kedua dengan posisi yang sama dengan posisi sujud pertama"
+  },
+
+  {
+    "id": 14,
+    "name": "Duduk Tasyahud Akhir",
+    "image": "https://i.pinimg.com/564x/26/b6/c5/26b6c5d595628a3cd9fa16a3d823fd5e.jpg",
+    "arabic": "اَلتَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ ِللهِ، السَّلاَمُ عَلَيْكَ اَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِاللهِ الصَّالِحِيْنَ، أَشْهَدُ اَنْ لآ إِلَهَ إِلاَّاللهُ وَاَشْهَدُ أَنَّ مُحَمَّدًا رَسُوْلُ اللهُ، اَللهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى سَيِّدِنَا اِبْرَاهِيْمَ وَعَلَى آلِ سَيِّدِنَا اِبْرَاهِيْمَ وَبَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا بَرَكْتَ عَلَى سَيِّدِنَا اِبْرَاهِيْمَ وَعَلَى آلِ سَيِّدِنَا اِبْرَاهِيْمَ فِى الْعَالَمِيْنَ إِنَّكَ حَمِيْدٌ مَجِيْدٌ",
+    "latin": "Attahiyyaatul mubaarokaatush sholawaatuth thoyyibaatu lillaah. Assalaamualaika ayyuhan nabiyyu wa rohmatulloohi wa barokaatuh. Assalaaamualainaa wa alaa ibaadillaahish shoolihiin. Asyhadu allaa ilaaha illallooh wa asyhadu anna Muhammadar rosuulullooh. Allahumma Shalli Ala Sayyidina Muhammad Wa Ala Ali Sayyidina Muhammad. Kama Shollaita Ala Sayyidina Ibrahim wa alaa aali sayyidina Ibrahim, wabaarik ala Sayyidina Muhammad Wa Alaa Ali Sayyidina Muhammad, Kama barokta alaa Sayyidina Ibrahim wa alaa ali Sayyidina Ibrahim, Fil aalamiina innaka hamiidummajid",
+    "terjemahan": "Setelah sujud kedua pada rakaat terakhir, duduk dengan posisi meletakkan kaki kiri diduduki dan kaki kanan ditegakkan. Posisi tangan adalah di atas paha dan lutut. Telapak tangan kanan mengepal dengan posisi ibu jari dan jari tengah membentuk lingkaran, sementara jari telunjuk mengarah lurus atau sedikit ke bawah. Tangan kiri diletakkan rata di atas paha kiri atau lutut kiri."
+  },
+  {
+    "id": 15,
+    "name": "Salam",
+    "image": "https://i.pinimg.com/564x/36/a0/e8/36a0e8ddadd50774653be39eab65ff98.jpg",
+    "arabic": "اَلسَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ",
+    "latin": "Assalamualaikum Warohmatullahi Wabarokatuh",
+    "terjemahan": "Setelah bacaan tahiyat selesai gerakkan kepala ke arah kanaPutar kepala ke kanan hingga pipi terlihat dari belakang sambil mengucapkan Assalamu 'alaikum warahmatullah. Putar kepala ke kiri hingga pipi terlihat dari belakang sambil mengucapkan Assalamu'alaikum warahmatullah."
+  }
+]
